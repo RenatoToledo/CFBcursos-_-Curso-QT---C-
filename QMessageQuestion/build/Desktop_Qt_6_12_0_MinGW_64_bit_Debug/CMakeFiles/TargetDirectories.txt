@@ -1,0 +1,9 @@
+C:/Qt/Curso/Aula_05/QMessageQuestion/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/QMessageQuestion.dir
+C:/Qt/Curso/Aula_05/QMessageQuestion/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
+C:/Qt/Curso/Aula_05/QMessageQuestion/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir
+C:/Qt/Curso/Aula_05/QMessageQuestion/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/list_install_components.dir
+C:/Qt/Curso/Aula_05/QMessageQuestion/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/install.dir
+C:/Qt/Curso/Aula_05/QMessageQuestion/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/install/local.dir
+C:/Qt/Curso/Aula_05/QMessageQuestion/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/install/strip.dir
+C:/Qt/Curso/Aula_05/QMessageQuestion/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/QMessageQuestion_autogen_timestamp_deps.dir
+C:/Qt/Curso/Aula_05/QMessageQuestion/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/QMessageQuestion_autogen.dir
